@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F0EDFE94-7C2E-4594-B116-8EC5D9ACBD57"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23F98058-06E3-437F-AEF6-4571D213763B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitConverter2/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "283"
+            endingLineNumber = "283"
+            landmarkName = "tempConvert(_:_:_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "23F98058-06E3-437F-AEF6-4571D213763B - 14f1269bdfbaa1f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitConverter2.tempConvert(Swift.Int, Swift.Int, Swift.Double) -&gt; Swift.Double"
+                  moduleName = "UnitConverter2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yonatankremer/Documents/Documents%20-%20Yonatan%E2%80%99s%20MacBook%20Air/Personal/code/UnitConverter2/UnitConverter2/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "263"
+                  endingLineNumber = "263"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "23F98058-06E3-437F-AEF6-4571D213763B - 14f1269bdfbaa11a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitConverter2.tempConvert(Swift.Int, Swift.Int, Swift.Double) -&gt; Swift.Double"
+                  moduleName = "UnitConverter2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yonatankremer/Documents/Documents%20-%20Yonatan%E2%80%99s%20MacBook%20Air/Personal/code/UnitConverter2/UnitConverter2/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4BFBB06-E3EA-4DD9-B74E-FA466B65E690"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitConverter2/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
+            landmarkName = "tempConvert(_:_:_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D4BFBB06-E3EA-4DD9-B74E-FA466B65E690 - 14f1269bdfbaa254"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitConverter2.tempConvert(Swift.Int, Swift.Int, Swift.Double) -&gt; Swift.Double"
+                  moduleName = "UnitConverter2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yonatankremer/Documents/Documents%20-%20Yonatan%E2%80%99s%20MacBook%20Air/Personal/code/UnitConverter2/UnitConverter2/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "260"
+                  endingLineNumber = "260"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "D4BFBB06-E3EA-4DD9-B74E-FA466B65E690 - 14f1269bdfbaa1f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitConverter2.tempConvert(Swift.Int, Swift.Int, Swift.Double) -&gt; Swift.Double"
+                  moduleName = "UnitConverter2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yonatankremer/Documents/Documents%20-%20Yonatan%E2%80%99s%20MacBook%20Air/Personal/code/UnitConverter2/UnitConverter2/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "263"
+                  endingLineNumber = "263"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15007B59-A9E5-415D-A530-D97BE5173C78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitConverter2/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "278"
+            endingLineNumber = "278"
+            landmarkName = "tempConvert(_:_:_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "15007B59-A9E5-415D-A530-D97BE5173C78 - 14f1269bdfbaa212"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitConverter2.tempConvert(Swift.Int, Swift.Int, Swift.Double) -&gt; Swift.Double"
+                  moduleName = "UnitConverter2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yonatankremer/Documents/Documents%20-%20Yonatan%E2%80%99s%20MacBook%20Air/Personal/code/UnitConverter2/UnitConverter2/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "258"
+                  endingLineNumber = "258"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "15007B59-A9E5-415D-A530-D97BE5173C78 - 14f1269bdfbaa1b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitConverter2.tempConvert(Swift.Int, Swift.Int, Swift.Double) -&gt; Swift.Double"
+                  moduleName = "UnitConverter2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yonatankremer/Documents/Documents%20-%20Yonatan%E2%80%99s%20MacBook%20Air/Personal/code/UnitConverter2/UnitConverter2/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EA1D869-AF6F-4ACC-A13C-E832B296EEFD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitConverter2/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "lengthConvert(_:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17809921-C32F-4485-BA27-75262DF4FE0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitConverter2/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "mainConvert(mainType:inTypeP:outTypeP:amount:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05B6F1AE-2970-44C9-94DE-58DF36A7BF16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitConverter2/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "mainConvert(mainType:inTypeP:outTypeP:amount:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "079108B9-62D5-492D-B6F1-E0F4080D068C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitConverter2/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+            landmarkName = "mainConvert(mainType:inTypeP:outTypeP:amount:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F493CB3C-7DDF-4363-9C59-84DC57734C61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitConverter2/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
+            landmarkName = "mainConvert(mainType:inTypeP:outTypeP:amount:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5934EF6-E96F-48EA-9DE3-EBD0EB10218A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitConverter2/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "229"
+            endingLineNumber = "229"
+            landmarkName = "lengthConvert(_:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66553AC3-E30E-4965-B001-947AD503ABF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitConverter2/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "lengthConvert(_:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49D97091-EB8E-4943-BAA8-D759E34F6414"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitConverter2/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "249"
+            endingLineNumber = "249"
+            landmarkName = "lengthConvert(_:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB9C39E2-F47A-4EF4-BF88-E5CE50953804"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitConverter2/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246"
+            landmarkName = "lengthConvert(_:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
