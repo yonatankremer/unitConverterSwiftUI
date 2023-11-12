@@ -25,7 +25,7 @@ struct ContentView: View {
     //sub unit types
     
     let subType0 = ["cm","m","inch","foot","km","mile","yard"]
-    let subType1 = ["g","kg","lb","oz","ton"]
+    let subType1 = ["g","kg","lbs"]
     let subType2 = ["C°","F°","K°"]
     
     
@@ -212,7 +212,10 @@ func mainConvert(mainType: Int, inTypeP: Int, outTypeP: Int, amount: Double) -> 
         
     }
     
-    returnVal.round(.toNearestOrAwayFromZero)
+    let rem = returnVal.remainder(dividingBy: 1)
+    
+    returnVal = rem > 0.0001 ? returnVal - rem : returnVal
+        
     return returnVal
 }
 
@@ -258,13 +261,9 @@ func weightConvert(_ inType: Int, _ outType: Int, _ amount: Double) -> Double
         
     case (0,1): return amount / 1000
     case (0,2): return amount * 0.00220462
-    case (0,3): return weightConvert(0, 2,amount) * 16
-    case (0,4): return amount / 1_000_000
     
     case (1,0): return amount * 1000
     case (2,0): return amount * 453.592
-    case (3,0): return weightConvert(0, 2,amount) / 16
-    case (4,0): return amount * 1_000_000
         
     default: return
         weightConvert(0, outType, weightConvert(inType,0,amount))
